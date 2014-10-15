@@ -1,3 +1,21 @@
+# BIOMD0000000412: Model_1
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000412.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000412.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -22,4 +40,5 @@ removes the necessity for the unknown component X (or TOC1mod) from previous
 clock models. As well as matching timeseries and phase-response data, the
 model provides a new conceptual framework for the plant clock that includes a
 three-component repressilator circuit in its complex structure.
+
 
